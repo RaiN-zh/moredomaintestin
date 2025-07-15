@@ -1,1 +1,2 @@
-RubickJakirohttps://test-phl-api.fyinformation.ccfalllight
+RubickJakirohttps://test-phl-api.fyinformation.cc111falllight
+RubickJakiroINShttps://test-ind-api.fyinformation.ccfalllightINS
